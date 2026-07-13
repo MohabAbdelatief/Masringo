@@ -1,0 +1,359 @@
+/* 
+  Localizable.strings
+  Masringo
+
+  Created by Mohab Abdelatief on 02/05/2025.
+  
+*/
+
+// ---------------------------------------------------------------------- //
+
+lesson_pronunciation = "Pronunciation of Letters";
+lesson_pronouns = "Pronouns";
+lesson_article = "Definite Article";
+lesson_greetings = "Greetings";
+lesson_phrases = "Important Phrases";
+
+audio_letters = "Letters";
+audio_pronouns = "The Pronouns";
+audio_article = "Definite Article";
+audio_greetings = "How to Greet?";
+audio_chat = "Chat";
+
+exercise_letters = "Exercise 1: Letters";
+exercise_pronouns = "Exercise 2: The Pronouns";
+exercise_articles = "Exercise 3: Articles";
+exercise_greetings = "Exercise 4: Greetings";
+exercise_chat = "Exercise 5: Chat";
+
+
+welcome_message = "Welcome back, Mohab";
+lessons_progress = "You've completed 0 out of 5 lessons";
+
+title_dashboard = "Dashboard";
+explore = "Explore";
+profile = "Profile";
+
+title_lessons = "Lessons";
+title_listening_lessons = "Listening Lessons";
+title_exercises = "Exercises";
+
+
+next_button = "Next";
+previous_button = "Previous";
+
+
+// LESSONS ---------------------------------------------------------------------- //
+
+lesson1_slide1_text = "Franco is a way of transcribing Arabic into the Latin alphabet, using numbers for sounds without an equivalent. We don’t use it in official contexts.";
+
+lesson1_slide1_image = "Alphabetics";
+
+
+// AUDIO LESSONS ---------------------------------------------------------------------- //
+
+
+// LESSON 1 ---------------------------------------------------------------------- //
+audiolesson1_slide1_image = "ENTable1";
+audiolesson1_slide1_text = "When do we use numbers?";
+audiolesson1_slide1_audio = "Table1.1";
+
+audiolesson1_slide2_image = "To learn the sound of the '3aain' (ع), try to produce a deep “a” in your throat until it becomes a guttural sound";
+audiolesson1_slide2_image = "Arabi";
+audiolesson1_slide2_text = "3arabi";
+audiolesson1_slide2_audio = "Arabi";
+
+audiolesson1_slide3_text = "3li";
+audiolesson1_slide3_audio = "Ali";
+
+audiolesson1_slide4_text = "3omar";
+audiolesson1_slide4_audio = "Omar";
+
+audiolesson1_slide5_text = "3andi";
+audiolesson1_slide5_audio = "Andi";
+
+audiolesson1_slide6_text = "3ayez";
+audiolesson1_slide6_audio = "Ayez";
+
+audiolesson1_slide7_image = "Guinea";
+audiolesson1_slide7_text = "The letter 8ain (غ) is very similar to the French r";
+audiolesson1_slide7_audio = "Guinea";
+
+audiolesson1_slide8_text = "8arib";
+audiolesson1_slide8_audio = "Gharib";
+
+audiolesson1_slide9_text = "Sho8l";
+audiolesson1_slide9_audio = "Shogl";
+
+audiolesson1_slide10_text = "8eer";
+audiolesson1_slide10_audio = "Gheer";
+
+audiolesson1_slide11_text = "8ab";
+audiolesson1_slide11_audio = "Ghab";
+
+audiolesson1_slide12_text = "The letter 8ain (خ) is very similar to the Spanish j";
+audiolesson1_slide12_image = "Sudan";
+audiolesson1_slide12_audio = "EL Khartoom";
+
+audiolesson1_slide13_text = "5abr";
+audiolesson1_slide13_audio = "Khabar";
+
+audiolesson1_slide14_text = "5al";
+audiolesson1_slide14_audio = "Khal";
+
+audiolesson1_slide15_text = "5amsa";
+audiolesson1_slide15_audio = "Khamsa";
+
+audiolesson1_slide16_text = "o5t";
+audiolesson1_slide16_audio = "Okht";
+
+audiolesson1_slide17_image = "Teamo";
+audiolesson1_slide17_text = "The Arabic letter 7aa (ح) is pronounced as an aspirated h";
+audiolesson1_slide17_audio = "Bahbk";
+
+audiolesson1_slide18_text = "7ader";
+audiolesson1_slide18_audio = "Hader";
+
+audiolesson1_slide19_text = "7assan";
+audiolesson1_slide19_audio = "Hassan";
+
+audiolesson1_slide20_text = "7arf";
+audiolesson1_slide20_audio = "Harf";
+
+audiolesson1_slide21_text = "7omar";
+audiolesson1_slide21_audio = "Homar";
+
+// LESSON 2 ---------------------------------------------------------------------- //
+audiolesson2_slide1_image = "ENTable2";
+audiolesson2_slide1_audio = "Table2.1";
+audiolesson2_slide1_text = "";
+
+// LESSON 3 ---------------------------------------------------------------------- //
+audiolesson3_slide1_image = "Book";
+audiolesson3_slide1_text = "الكِتَاب / El ketaab (The book)";
+audiolesson3_slide1_audio = "ElKetab";
+
+audiolesson3_slide2_image = "Books";
+audiolesson3_slide2_text = "الكِتَابEl kotob / الكُتُب(the books)";
+audiolesson3_slide2_audio = "ElKotob";
+
+audiolesson3_slide3_image = "Girl";
+audiolesson3_slide3_text = "El bent / البنت(The Girl)";
+audiolesson3_slide3_audio = "ElBent";
+
+audiolesson3_slide4_image = "Girls";
+audiolesson3_slide4_text = "El banat / البنات(The Girls)";
+audiolesson3_slide4_audio = "ELBanat";
+
+// LESSON 4 ---------------------------------------------------------------------- //
+
+audiolesson4_slide1_image = "ENTable4";
+audiolesson4_slide1_text = "Atta7eyat/ Greetings";
+audiolesson4_slide1_audio = "Table4.1";
+
+// LESSON 5 ---------------------------------------------------------------------- //
+
+audiolesson5_slide1_image = "Dah";
+audiolesson5_slide1_text = "Dah (this / that)  (M)";
+audiolesson5_slide1_audio = "Dah";
+
+audiolesson5_slide2_image = "Di";
+audiolesson5_slide2_text = "Di (this/ that) (F)";
+audiolesson5_slide2_audio = "Di";
+
+audiolesson5_slide3_image = "Dool";
+audiolesson5_slide3_text = "Dool (these/ those)";
+audiolesson5_slide3_audio = "Dol";
+
+// EXERCISES
+
+// EXERCISE 1 ---------------------------------------------------------------------- //
+
+exercise1_slide1_image = "Hair";
+exercise1_slide1_text = "What is this?";
+exercise1_slide1_option1 = "4a3r";
+exercise1_slide1_option2 = "Ana";
+exercise1_slide1_option3 = "3am";
+
+exercise1_slide2_image = "BoyGirl";
+exercise1_slide2_text = "Who is this?";
+exercise1_slide2_option1 = "o5t";
+exercise1_slide2_option2 = "3am";
+exercise1_slide2_option3 = "4a3r";
+
+// EXERCISE 2 ---------------------------------------------------------------------- //
+
+exercise2_slide1_image = "";
+exercise2_slide1_text = "I in Arabic?";
+exercise2_slide1_option1 = "E7na/ إحنا";
+exercise2_slide1_option2 = "Ana/ أنا";
+exercise2_slide1_option3 = "Enta/ إنتَ";
+
+exercise2_slide2_image = "";
+exercise2_slide2_text = "We in Arabic?";
+exercise2_slide2_option1 = "E7na/ إحنا";
+exercise2_slide2_option2 = "Ana/ أنا";
+exercise2_slide2_option3 = "Enta/ إنتَ";
+
+exercise2_slide3_image = "";
+exercise2_slide3_text = "You (Female) in Arabic";
+exercise2_slide3_option1 = "E7na/ إحنا";
+exercise2_slide3_option2 = "Ana/ أنا";
+exercise2_slide3_option3 = "Enti/ إنتي";
+
+exercise2_slide4_image = "";
+exercise2_slide4_text = "You (Plural) in Arabic";
+exercise2_slide4_option1 = "Enta/ إنتَ";
+exercise2_slide4_option2 = "Entu/إنتو";
+exercise2_slide4_option3 = "Enti/إنتي";
+
+exercise2_slide5_image = "";
+exercise2_slide5_text = "They in Arabic";
+exercise2_slide5_option1 = "Huwwa/ هو";
+exercise2_slide5_option2 = "Humma/ هما";
+exercise2_slide5_option3 = "Heya/هي";
+
+exercise2_slide6_image = "";
+exercise2_slide6_text = "He in Arabic";
+exercise2_slide6_option1 = "Huwwa/ هو";
+exercise2_slide6_option2 = "Humma/ هما";
+exercise2_slide6_option3 = "Heya/هي";
+
+exercise2_slide7_image = "";
+exercise2_slide7_text = "She in Arabic";
+exercise2_slide7_option1 = "Huwwa/ هو";
+exercise2_slide7_option2 = "Humma/ هما";
+exercise2_slide7_option3 = "Heya/هي";
+
+
+// EXERCISE 3 ---------------------------------------------------------------------- //
+
+exercise3_slide1_image = "Girl2";
+exercise3_slide1_text = "Choose the correct sentence that describes the picture";
+exercise3_slide1_option1 = "Ana Ahmed/ أنا أحْمَد";
+exercise3_slide1_option2 = "sha3r el bent gamiil / شَعْر البِنْت جَمِيل";
+exercise3_slide1_option3 = "Ana ba7ebbak / أنا بَحِبَّك";
+
+exercise3_slide2_image = "Book";
+exercise3_slide2_text = "______ كبير. (The book is big)";
+exercise3_slide2_option1 = "الكُتُب – el kotob";
+exercise3_slide2_option2 = "البنت – el bent";
+exercise3_slide2_option3 = "الكتاب – el ketaab";
+
+exercise3_slide3_image = "Girl";
+exercise3_slide3_text = "______ طويلة. (The girl is tall)";
+exercise3_slide3_option1 = "الكُتُب – el kotob";
+exercise3_slide3_option2 = "البنت – el bent";
+exercise3_slide3_option3 = "الكتاب – el ketaab";
+
+exercise3_slide4_image = "Girls";
+exercise3_slide4_text = "______ جميلة. (The girls are beautiful)";
+exercise3_slide4_option1 = "الكُتُب – el kotob";
+exercise3_slide4_option2 = "البنت – el bent";
+exercise3_slide4_option3 = "البنات – el banaat";
+
+exercise3_slide5_image = "Book";
+exercise3_slide5_text = "______ غريبة. (The books are rare/strange)";
+exercise3_slide5_option1 = "الكُتُب – el kotob";
+exercise3_slide5_option2 = "الكتاب – el ketaab";
+exercise3_slide5_option3 = "البنات – el banaat";
+
+// EXERCISE 4 ---------------------------------------------------------------------- //
+
+exercise4_slide1_image = "";
+exercise4_slide1_text = "How would you greet a person at night in Arabic?";
+exercise4_slide1_option1 = "Sabah el 5eer";
+exercise4_slide1_option2 = "Masa2 el 5eer";
+exercise4_slide1_option3 = "Ahlan";
+
+exercise4_slide2_image = "";
+exercise4_slide2_text = "How do you say welcome in Arabic?";
+exercise4_slide2_option1 = "Ahlan wa sahlan";
+exercise4_slide2_option2 = "Ma3 el salama";
+exercise4_slide2_option3 = "Shokran";
+
+exercise4_slide3_image = "";
+exercise4_slide3_text = "If you enter a house in Egypt, you greet by saying:";
+exercise4_slide3_option1 = "Assalamu 3alaikum";
+exercise4_slide3_option2 = "Ahlan";
+exercise4_slide3_option3 = "Ezayyak";
+
+exercise4_slide4_image = "";
+exercise4_slide4_text = "If your Egyptian friend visits you at home, you will say to him:";
+exercise4_slide4_option1 = "Sabah el 5eer";
+exercise4_slide4_option2 = "Ahlan wa sahlan";
+exercise4_slide4_option3 = "Ana kwayyes";
+
+exercise4_slide5_image = "";
+exercise4_slide5_text = "When you meet an Egyptian friend at night, you say:";
+exercise4_slide5_option1 = "Sabah el 5eer";
+exercise4_slide5_option2 = "Masa2 el 5eer";
+exercise4_slide5_option3 = "Ahlan wa sahlan";
+
+exercise4_slide6_image = "";
+exercise4_slide6_text = "Good afternoon → ...............";
+exercise4_slide6_option1 = "Sabah el 5eer";
+exercise4_slide6_option2 = "Masa2 el 5eer";
+exercise4_slide6_option3 = "Ahlan wa sahlan";
+
+exercise4_slide7_image = "";
+exercise4_slide7_text = "Hello → ...............";
+exercise4_slide7_option1 = "Ahlan";
+exercise4_slide7_option2 = "Masa2 el 5eer";
+exercise4_slide7_option3 = "Ahlan wa sahlan";
+
+exercise4_slide8_image = "";
+exercise4_slide8_text = "Welcome → ...............";
+exercise4_slide8_option1 = "Sabah el 5eer";
+exercise4_slide8_option2 = "Masa2 el 5eer";
+exercise4_slide8_option3 = "Ahlan wa sahlan";
+
+exercise4_slide9_image = "";
+exercise4_slide9_text = "Imagine you meet an Egyptian for the first time. How would you greet him?";
+exercise4_slide9_option1 = "Assalamu 3alaikum";
+exercise4_slide9_option2 = "Ma3 el salama";
+exercise4_slide9_option3 = "La2 shokran";
+
+exercise4_slide10_image = "";
+exercise4_slide10_text = "What greeting is used at night?";
+exercise4_slide10_option1 = "Masa2 el 5eer";
+exercise4_slide10_option2 = "Ezayyak";
+exercise4_slide10_option3 = "Saba7 el 5eer";
+
+exercise4_slide11_image = "";
+exercise4_slide11_text = "Choose the best mini-dialogue for the morning greeting:";
+exercise4_slide11_option1 = "A7mad: Masa2 el 5eer | Ma7ammad: Masa2 el nour";
+exercise4_slide11_option2 = " A7mad: Sabah el 5eer | Ma7ammad: Sabah el nour";
+exercise4_slide11_option3 = " A7mad: Ahlan | Ma7ammad: Ma3 el salama";
+
+// EXERCISE 5 ---------------------------------------------------------------------- //
+
+exercise5_slide1_image = "DahAna";
+exercise5_slide1_text = "Dah Ana";
+exercise5_slide1_option1 = "That's Me";
+exercise5_slide1_option2 = "She is Anna";
+exercise5_slide1_option3 = "We are us";
+
+exercise5_slide2_image = "DahKetab";
+exercise5_slide2_text = "Choose the right answer";
+exercise5_slide2_option1 = "Dah Ketab";
+exercise5_slide2_option2 = "Dol Banat";
+exercise5_slide2_option3 = "Dag 4a3r";
+
+exercise5_slide3_image = "DoolArab";
+exercise5_slide3_text = "Choose the right answer";
+exercise5_slide3_option1 = "Dol 3arab";
+exercise5_slide3_option2 = "Di Maktba";
+exercise5_slide3_option3 = "Da Sha3r";
+
+exercise5_slide4_image = "DahMobile";
+exercise5_slide4_text = "Choose the right answer";
+exercise5_slide4_option1 = "Dah Mobile";
+exercise5_slide4_option2 = "Di Bent";
+exercise5_slide4_option3 = "Dol Kotob";
+
+// ------
+
+congratulations = "Congratulations";
+message = "You've completed this lesson!";
+close = "Close";
